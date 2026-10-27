@@ -1,0 +1,6 @@
+{
+  "name": "RepoRadar - Open-Source Telemetry & Developer Radar",
+  "description": "Explore developer profiles, uncover standout repositories, and inspect ecosystem telemetry across open-source velocity signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
